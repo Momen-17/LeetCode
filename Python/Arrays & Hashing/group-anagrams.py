@@ -8,6 +8,3 @@ class Solution(object):
             ret[sorted_string].append(string)
         
         return ret.values()
-
-
-print(Solution().groupAnagrams(["eat","tea","tan","ate","nat","bat"]))
