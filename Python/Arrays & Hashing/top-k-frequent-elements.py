@@ -6,6 +6,3 @@ class Solution(object):
         
         ret = sorted(nums_count.items(), key=lambda item: item[1], reverse=True)[:k]
         return [x[0] for x in ret[:k]]
-
-
-print(Solution().topKFrequent([1,1,1,2,2,3], 2))
