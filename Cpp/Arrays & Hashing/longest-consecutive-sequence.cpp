@@ -16,7 +16,6 @@ public:
                 while (numsSet.find(num + length) != numsSet.end()) {
                     length++;
                 }
-                
                 longest = max(length, longest);
             }
         }
