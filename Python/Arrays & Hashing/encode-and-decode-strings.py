@@ -15,8 +15,3 @@ class Solution:
             i = mark + length + 1
 
         return result
-
-
-s = Solution().encode(["we","say",":","yes","!@#$%^&*()"])
-print(["we","say",":","yes","!@#$%^&*()"])
-print(Solution().decode(s))
