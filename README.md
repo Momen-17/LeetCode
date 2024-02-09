@@ -1,7 +1,8 @@
 # LeetCode
 Solution to LeetCode problems
 
-## Arrays & Hashing
+## Data Structure & Algorithms
+### Arrays & Hashing
 | Difficulty | Problem | Python | C++ |
 |------------|---------|--------|-----|
 | Easy | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/Python/Arrays%20%26%20Hashing/contains-duplicate.py) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/Cpp/Arrays%20%26%20Hashing/contains-duplicate.cpp) |
@@ -13,3 +14,8 @@ Solution to LeetCode problems
 | Medium | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/Python/Arrays%20%26%20Hashing/valid-sudoku.py) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/Cpp/Arrays%20%26%20Hashing/valid-sudoku.cpp) |
 | Medium | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/Python/Arrays%20%26%20Hashing/encode-and-decode-strings.py) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/Cpp/Arrays%20%26%20Hashing/encode-and-decode-strings.cpp) |
 | Medium | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/Python/Arrays%20%26%20Hashing/longest-consecutive-sequence.py) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/Cpp/Arrays%20%26%20Hashing/longest-consecutive-sequence.cpp) |
+
+## SQL
+### Select
+| Difficulty | Problem | SQL |
+| Easy | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50) | [recyclable-and-low-fat-products.sql](https://github.com/Momen-17/LeetCode/blob/master/SQL/Select/recyclable-and-low-fat-products.sql) |
