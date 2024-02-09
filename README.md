@@ -18,4 +18,5 @@ Solution to LeetCode problems
 ## SQL
 ### Select
 | Difficulty | Problem | SQL |
+|------------|---------|--------|
 | Easy | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50) | [recyclable-and-low-fat-products.sql](https://github.com/Momen-17/LeetCode/blob/master/SQL/Select/recyclable-and-low-fat-products.sql) |
