@@ -19,7 +19,7 @@ Solution to LeetCode problems
 
 ### Select
 | Difficulty | Problem | SQL |
-|------------|---------|--------|
+|------------|---------|-----|
 | Easy | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Select/recyclable-and-low-fat-products.sql) |
 | Easy | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Select/find-customer-referee.sql) |
 | Easy | [Big Countries](https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Select/big-countries.sql) |
@@ -28,4 +28,5 @@ Solution to LeetCode problems
 
 ### Basic Joins
 | Difficulty | Problem | SQL |
+|------------|---------|-----|
 | Easy | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️] (https://github.com/Momen-17/LeetCode/blob/master/SQL/Basic%20Joins/replace-employee-id-with-the-unique-identifier.sql) |
