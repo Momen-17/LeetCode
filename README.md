@@ -16,6 +16,7 @@ Solution to LeetCode problems
 | Medium | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/Python/Arrays%20%26%20Hashing/longest-consecutive-sequence.py) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/Cpp/Arrays%20%26%20Hashing/longest-consecutive-sequence.cpp) |
 
 ## SQL
+
 ### Select
 | Difficulty | Problem | SQL |
 |------------|---------|--------|
@@ -24,3 +25,7 @@ Solution to LeetCode problems
 | Easy | [Big Countries](https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Select/big-countries.sql) |
 | Easy | [Article Views I](https://leetcode.com/problems/article-views-i/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Select/article-views-i.sql) |
 | Easy | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Select/invalid-tweets.sql) |
+
+### Basic Joins
+| Difficulty | Problem | SQL |
+| Easy | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️] (https://github.com/Momen-17/LeetCode/blob/master/SQL/Basic%20Joins/replace-employee-id-with-the-unique-identifier.sql) |
