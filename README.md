@@ -29,4 +29,4 @@ Solution to LeetCode problems
 ### Basic Joins
 | Difficulty | Problem | SQL |
 |------------|---------|-----|
-| Easy | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️] (https://github.com/Momen-17/LeetCode/blob/master/SQL/Basic%20Joins/replace-employee-id-with-the-unique-identifier.sql) |
+| Easy | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Basic%20Joins/replace-employee-id-with-the-unique-identifier.sql) |
