@@ -38,3 +38,8 @@ Solution to LeetCode problems
 | Easy | [Students and Examinations](https://leetcode.com/problems/students-and-examinations/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Basic%20Joins/students-and-examinations.sql) |
 | Medium | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Basic%20Joins/managers-with-at-least-5-direct-reports.sql) |
 | Medium | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Basic%20Joins/confirmation-rate.sql) |
+
+### Basic Aggregate Functions
+| Difficulty | Problem | SQL |
+|------------|---------|-----|
+| Easy | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Basic%20Aggregate%20Functions/not-boring-movies.sql) |
