@@ -43,3 +43,4 @@ Solution to LeetCode problems
 | Difficulty | Problem | SQL |
 |------------|---------|-----|
 | Easy | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Basic%20Aggregate%20Functions/not-boring-movies.sql) |
+| Easy | [Average Selling Price](https://leetcode.com/problems/average-selling-price/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Basic%20Aggregate%20Functions/average-selling-price.sql) |
