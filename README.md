@@ -50,3 +50,9 @@ Solution to LeetCode problems
 | Medium | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Basic%20Aggregate%20Functions/monthly-transactions-i.sql) |
 | Medium | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Basic%20Aggregate%20Functions/immediate-food-delivery-ii.sql) |
 | Medium | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Basic%20Aggregate%20Functions/game-play-analysis-iv.sql) |
+
+### Sorting and Grouping
+| Difficulty | Problem | SQL |
+|------------|---------|-----|
+| Easy | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Sorting%20and%20Grouping/number-of-unique-subjects-taught-by-each-teacher.sql) |
+
