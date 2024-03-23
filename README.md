@@ -3,12 +3,12 @@ Solution to LeetCode problems
 
 # Table of Contents
 1. [Data Structure & Algorithms](#data-structure--algorithms)
-    --[Arrays & Hashing](#arrays--hashing)
+    - [Arrays & Hashing](#arrays--hashing)
 2. [SQL](#sql)
-    --[Select](#select)
-    --[Basic Joins](#basic-joins)
-    --[Basic Aggregate Functions](#basic-aggregate-functions)
-    --[Sorting and Grouping](#sorting-and-grouping)
+    - [Select](#select)
+    - [Basic Joins](#basic-joins)
+    - [Basic Aggregate Functions](#basic-aggregate-functions)
+    - [Sorting and Grouping](#sorting-and-grouping)
 
 ## Data Structure & Algorithms
 ### Arrays & Hashing
