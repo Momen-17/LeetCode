@@ -70,3 +70,7 @@ Solution to LeetCode problems
 | Easy | [Find Followers Count](https://leetcode.com/problems/find-followers-count/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Sorting%20and%20Grouping/find-followers-count.sql) |
 | Easy | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Sorting%20and%20Grouping/biggest-single-number.sql) |
 | Medium | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Sorting%20and%20Grouping/customers-who-bought-all-products.sql) |
+
+### Advanced Select and Joins
+| Difficulty | Problem | SQL |
+|------------|---------|-----|
