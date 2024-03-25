@@ -74,3 +74,5 @@ Solution to LeetCode problems
 ### Advanced Select and Joins
 | Difficulty | Problem | SQL |
 |------------|---------|-----|
+
+| Easy | [The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Advanced%20Select%20and%20Joins/the-number-of-employees-which-report-to-each-employee.sql) |
