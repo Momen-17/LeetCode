@@ -9,6 +9,7 @@ Solution to LeetCode problems
     - [Basic Joins](#basic-joins)
     - [Basic Aggregate Functions](#basic-aggregate-functions)
     - [Sorting and Grouping](#sorting-and-grouping)
+    - [Advanced Select and Joins](#advanced-select-and-joins)
 
 ## Data Structure & Algorithms
 ### Arrays & Hashing
