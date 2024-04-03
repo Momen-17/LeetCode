@@ -82,3 +82,8 @@ Solution to LeetCode problems
 | Medium | [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Advanced%20Select%20and%20Joins/product-price-at-a-given-date.sql) |
 | Medium | [Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus/?envType=study-plan-v2&envId=top-sql-50) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Advanced%20Select%20and%20Joins/last-person-to-fit-in-the-bus.sql) |
 | Medium | [Count Salary Categories](https://leetcode.com/problems/count-salary-categories/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Advanced%20Select%20and%20Joins/count-salary-categories.sql) |
+
+### Subqueries
+| Difficulty | Problem | SQL |
+|------------|---------|-----|
+| Easy | [Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Subqueries/employees-whose-manager-left-the-company.sql) |
