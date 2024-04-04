@@ -87,3 +87,4 @@ Solution to LeetCode problems
 | Difficulty | Problem | SQL |
 |------------|---------|-----|
 | Easy | [Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Subqueries/employees-whose-manager-left-the-company.sql) |
+| Easy | [Exchange Seats](https://leetcode.com/problems/exchange-seats/?envType=study-plan-v2&envId=top-sql-50) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Subqueries/exchange-seats.sql) |
