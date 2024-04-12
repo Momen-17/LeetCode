@@ -94,3 +94,8 @@ Solution to LeetCode problems
 | Medium | [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Subqueries/friend-requests-ii-who-has-the-most-friends.sql) |
 | Medium | [Investments in 2016](https://leetcode.com/problems/investments-in-2016/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Subqueries/investments-in-2016.sql) |
 | Medium | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Subqueries/department-top-three-salaries.sql) |
+
+### Advanced String Functions / Regex / Clause
+| Difficulty | Problem | SQL |
+|------------|---------|-----|
+| Easy | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Advanced%20String%20Functions%2C%20Regex%2C%20Clause/fix-names-in-a-table.sql) |
