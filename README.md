@@ -11,6 +11,7 @@ Solution to LeetCode problems
     - [Sorting and Grouping](#sorting-and-grouping)
     - [Advanced Select and Joins](#advanced-select-and-joins)
     - [Subqueries](#subqueries)
+    - [Advanced String Functions / Regex / Clause](#advanced-string-functions--regex--clause)
 
 ## Data Structure & Algorithms
 ### Arrays & Hashing
