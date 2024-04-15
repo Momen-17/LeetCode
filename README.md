@@ -100,3 +100,4 @@ Solution to LeetCode problems
 | Difficulty | Problem | SQL |
 |------------|---------|-----|
 | Easy | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Advanced%20String%20Functions%2C%20Regex%2C%20Clause/fix-names-in-a-table.sql) |
+| Easy | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Advanced%20String%20Functions%2C%20Regex%2C%20Clause/patients-with-a-condition.sql) |
