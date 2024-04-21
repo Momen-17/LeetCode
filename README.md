@@ -61,6 +61,7 @@ Solution to LeetCode problems
 | Easy | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Basic%20Aggregate%20Functions/queries-quality-and-percentage.sql) |
 | Medium | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Basic%20Aggregate%20Functions/monthly-transactions-i.sql) |
 | Medium | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Basic%20Aggregate%20Functions/immediate-food-delivery-ii.sql) |
+| Medium | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/description/?envType=featured-list&envId=leetcode-curated-sql-70?envType=featured-list&envId=leetcode-curated-sql-70) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Basic%20Aggregate%20Functions/game-play-analysis-i.sql) |
 | Medium | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Basic%20Aggregate%20Functions/game-play-analysis-iv.sql) |
 
 ### Sorting and Grouping
