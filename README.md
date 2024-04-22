@@ -111,3 +111,4 @@ Solution to LeetCode problems
 | Difficulty | Problem | SQL |
 |------------|---------|-----|
 | Easy | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/description/?envType=featured-list&envId=leetcode-curated-sql-70?envType=featured-list&envId=leetcode-curated-sql-70) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Basic%20Aggregate%20Functions/game-play-analysis-i.sql) |
+| Easy | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/description/?envType=featured-list&envId=leetcode-curated-sql-70?envType=featured-list&envId=leetcode-curated-sql-70) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Random/customer-placing-the-largest-number-of-orders.sql) |
