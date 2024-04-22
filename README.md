@@ -61,7 +61,6 @@ Solution to LeetCode problems
 | Easy | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Basic%20Aggregate%20Functions/queries-quality-and-percentage.sql) |
 | Medium | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Basic%20Aggregate%20Functions/monthly-transactions-i.sql) |
 | Medium | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Basic%20Aggregate%20Functions/immediate-food-delivery-ii.sql) |
-| Medium | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/description/?envType=featured-list&envId=leetcode-curated-sql-70?envType=featured-list&envId=leetcode-curated-sql-70) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Basic%20Aggregate%20Functions/game-play-analysis-i.sql) |
 | Medium | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Basic%20Aggregate%20Functions/game-play-analysis-iv.sql) |
 
 ### Sorting and Grouping
@@ -107,3 +106,8 @@ Solution to LeetCode problems
 | Easy | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Advanced%20String%20Functions%2C%20Regex%2C%20Clause/group-sold-products-by-the-date.sql) |
 | Easy | [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Advanced%20String%20Functions%2C%20Regex%2C%20Clause/list-the-products-ordered-in-a-period.sql) |
 | Easy | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/description/?envType=study-plan-v2&envId=top-sql-50) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Advanced%20String%20Functions%2C%20Regex%2C%20Clause/find-users-with-valid-e-mails.sql) |
+
+### Random
+| Difficulty | Problem | SQL |
+|------------|---------|-----|
+| Easy | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/description/?envType=featured-list&envId=leetcode-curated-sql-70?envType=featured-list&envId=leetcode-curated-sql-70) | [✔️](https://github.com/Momen-17/LeetCode/blob/master/SQL/Basic%20Aggregate%20Functions/game-play-analysis-i.sql) |
