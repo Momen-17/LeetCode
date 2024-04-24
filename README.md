@@ -12,6 +12,7 @@ Solution to LeetCode problems
     - [Advanced Select and Joins](#advanced-select-and-joins)
     - [Subqueries](#subqueries)
     - [Advanced String Functions / Regex / Clause](#advanced-string-functions--regex--clause)
+    - [Randomgit add](#random)
 
 ## Data Structure & Algorithms
 ### Arrays & Hashing
